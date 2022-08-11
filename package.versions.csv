@@ -1,0 +1,39 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"ggplot2","ggplot2","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","3.3.2",NA,"R (>= 3.2)","digest, glue, grDevices, grid, gtable (>= 0.1.1), isoband,
+MASS, mgcv, rlang (>= 0.3.0), scales (>= 0.5.0), stats, tibble,
+withr (>= 2.0.0)",NA,"covr, dplyr, ggplot2movies, hexbin, Hmisc, knitr, lattice,
+mapproj, maps, maptools, multcomp, munsell, nlme, profvis,
+quantreg, RColorBrewer, rgeos, rmarkdown, rpart, sf (>= 0.7-3),
+svglite (>= 1.2.0.9001), testthat (>= 2.1.0), vdiffr (>= 0.3.0)","sp","GPL-2 | file LICENSE",NA,NA,NA,NA,"no","4.0.2"
+"cowplot","cowplot","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","1.0.0",NA,"R (>= 3.5.0)","ggplot2 (> 2.2.1), grid, gtable, grDevices, methods, rlang,
+scales, utils",NA,"Cairo, covr, dplyr, forcats, gridGraphics (>= 0.4-0), knitr,
+lattice, magick, maps, PASWR, rmarkdown, testthat (>= 1.0.0),
+tidyr, vdiffr (>= 0.3.0), VennDiagram",NA,"GPL-2",NA,NA,NA,NA,"no","4.0.2"
+"ggpubr","ggpubr","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","0.4.0",NA,"R (>= 3.1.0), ggplot2","ggrepel, grid, ggsci, stats, utils, tidyr, purrr, dplyr (>=
+0.7.1), cowplot, ggsignif, scales, gridExtra, glue, polynom,
+rlang, rstatix (>= 0.6.0), tibble, magrittr",NA,"grDevices, knitr, RColorBrewer, gtable",NA,"GPL-2",NA,NA,NA,NA,"no","4.0.2"
+"ggsignif","ggsignif","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","0.6.0",NA,NA,"ggplot2 (>= 2.0.0)",NA,"testthat, knitr, rmarkdown",NA,"GPL-3",NA,NA,NA,NA,"no","4.0.2"
+"ggplotify","ggplotify","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","0.0.5",NA,"R (>= 3.4.0)","ggplot2, graphics, grDevices, grid, gridGraphics, rvcheck",NA,"colorspace, cowplot, ggimage, knitr, lattice, prettydoc, vcd",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.0.2"
+"ggrepel","ggrepel","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","0.8.2",NA,"R (>= 3.0.0), ggplot2 (>= 2.2.0)","grid, Rcpp, scales (>= 0.3.0)","Rcpp","knitr, rmarkdown, testthat, gridExtra, devtools, prettydoc",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","4.0.2"
+"pheatmap","pheatmap","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","1.0.12",NA,"R (>= 2.0)","grid, RColorBrewer, scales, gtable, stats, grDevices, graphics",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","4.0.2"
+"gdata","gdata","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","2.18.0",NA,"R (>= 2.3.0)","gtools, stats, methods, utils",NA,"RUnit",NA,"GPL-2",NA,NA,NA,NA,"no","4.0.2"
+"DESeq2","DESeq2","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","1.28.1",NA,"S4Vectors (>= 0.23.18), IRanges, GenomicRanges,
+SummarizedExperiment (>= 1.1.6)","BiocGenerics (>= 0.7.5), Biobase, BiocParallel, genefilter,
+methods, stats4, locfit, geneplotter, ggplot2, Rcpp (>= 0.11.0)","Rcpp, RcppArmadillo","testthat, knitr, rmarkdown, vsn, pheatmap, RColorBrewer,
+apeglm, ashr, tximport, tximeta, tximportData, readr, pbapply,
+airway, pasilla (>= 0.2.10)",NA,"LGPL (>= 3)",NA,NA,NA,NA,"yes","4.0.0"
+"tidyverse","tidyverse","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","1.3.0",NA,"R (>= 3.2)","broom (>= 0.5.2), cli (>= 1.1.0), crayon (>= 1.3.4), dbplyr
+(>= 1.4.2), dplyr (>= 0.8.3), forcats (>= 0.4.0), ggplot2 (>=
+3.2.1), haven (>= 2.2.0), hms (>= 0.5.2), httr (>= 1.4.1),
+jsonlite (>= 1.6), lubridate (>= 1.7.4), magrittr (>= 1.5),
+modelr (>= 0.1.5), pillar (>= 1.4.2), purrr (>= 0.3.3), readr
+(>= 1.3.1), readxl (>= 1.3.1), reprex (>= 0.3.0), rlang (>=
+0.4.1), rstudioapi (>= 0.10), rvest (>= 0.3.5), stringr (>=
+1.4.0), tibble (>= 2.1.3), tidyr (>= 1.0.0), xml2 (>= 1.2.2)",NA,"covr, feather, glue, knitr, rmarkdown, testthat",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","4.0.2"
+"fgsea","fgsea","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","1.14.0",NA,"R (>= 3.3)","Rcpp, data.table, BiocParallel, stats, ggplot2 (>= 2.2.0),
+gridExtra, grid, fastmatch, Matrix, utils","Rcpp, BH","testthat, knitr, rmarkdown, reactome.db, AnnotationDbi,
+parallel, org.Mm.eg.db, limma, GEOquery",NA,"MIT + file LICENCE",NA,NA,NA,NA,"yes","4.0.0"
+"WriteXLS","WriteXLS","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","5.0.0",NA,NA,"utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","4.0.2"
+"umap","umap","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","0.2.6.0",NA,"R (>= 3.1.2)","methods, openssl, reticulate, Rcpp (>= 0.12.6), RSpectra,
+stats","Rcpp","knitr, rmarkdown, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","4.0.2"
+"org.Hs.eg.db","org.Hs.eg.db","/Library/Frameworks/R.framework/Versions/4.0/Resources/library","3.11.4",NA,"R (>= 2.7.0), methods, AnnotationDbi (>= 1.49.2)","methods, AnnotationDbi",NA,"DBI, annotate, RUnit",NA,"Artistic-2.0",NA,NA,NA,NA,"no","4.0.2"

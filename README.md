@@ -2,6 +2,8 @@
 
 This GitHub repository accompanies the above named paper by Maughan et al., iScience 2022. It is made public to allow reproducibility of analysis. Gene expression analysis and visualisation is included; other experimental methods are described in the manuscript. It is assumed that a count matrix has been generated from raw sequencing files as described in the manuscript.
 
+Analysis was run using R version 4.0.2. Package versions for libaries used in this analysis are included in this repository in the file package.versions.csv.
+
 Included files are described below:
 
 *run.analysis.R* - runs a full analysis to generate figures and results presented in the paper.
